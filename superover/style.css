@@ -1,0 +1,67 @@
+.bg{
+    height: 700px;
+    width: 1500px;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    margin-left: -846px;
+    margin-top: 25px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    flex-direction: flex-start;
+    margin-left: -678px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 440px 440px;
+    column-gap: 100px;
+    margin-top: -550px;
+    margin-left: 250px;
+    
+}
+.child{
+    border: 2px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+    font-size: 4rem;
+    padding-top: 60px;
+    color: white;
+}
+.digits{
+    border: 2px solid black;
+    font-weight: bold;
+    border-radius: 50%;
+    font-size: 1.8rem;
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    color: black;
+}
+.parent{
+    display: grid;
+    column-gap: 0px;
+    margin-top: 45px;
+    justify-content: center;
+    grid-template-columns: 60px 60px 60px 60px 60px 60px;
+}
+.score{
+    font-size: 2.5rem;
+    margin-top: 37px;
+}
+.bat{
+    height: 60px;
+    width: 60px;
+    margin-left: 624px;
+    margin-top: 43px;
+}
+.restart{
+    height: 60px;
+    width: 60px;
+    margin-left: 57px;
+    margin-top: 43px;
+}

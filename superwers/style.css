@@ -1,0 +1,15 @@
+body{
+    background-color: #ffffff;
+    height: 100vh;
+    margin: 0px;
+}
+tr{
+    border: black;
+}
+.itam{
+    border: 2px solid black;
+}
+table{
+    border: 2px solid rgb(194, 191, 191);
+    border-collapse: collapse;
+}
